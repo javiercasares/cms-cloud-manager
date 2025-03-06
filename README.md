@@ -1,1 +1,1 @@
-# CMS Cloud Manager plugin for WordPress
+# CMS Cloud Manager
